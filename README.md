@@ -45,8 +45,11 @@ python dominios.py
 
 
 
-Agradecimientos
+## Agradecimientos
+
 Este proyecto utiliza dominios provenientes del siguiente repositorio:
 
-nitt-sec-nrd: Una lista de dominios públicos, proporcionada por nicotechtips.
-Agradecemos a los autores por compartir este recurso valioso.
+- [nitt-sec-nrd](https://github.com/nicotechtips/nitt-sec-nrd/tree/main/lists) - Una lista de dominios públicos, proporcionada por [nicotechtips](https://github.com/nicotechtips).
+
+Gracias a los autores por compartir este recurso valioso.
+

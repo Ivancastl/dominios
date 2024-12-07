@@ -9,6 +9,11 @@ def mostrar_etiqueta():
     # Generar arte ASCII para "dominios"
     texto_ascii = pyfiglet.figlet_format("DominiOSINT")
     print(texto_ascii)
+    
+    # Agregar tu nombre de usuario de Twitter y el enlace de tu grupo de Telegram
+    print("\nSígueme en Twitter: @ivancastl")
+    print("Únete a mi grupo de Telegram: https://t.me/+_g4DIczsuI9hOWZh")
+
 
 
 def pedir_palabras_clave():

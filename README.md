@@ -42,7 +42,7 @@ Una vez que las dependencias estén instaladas, puedes ejecutar el script con el
 
 ```bash
 python dominios.py
-
+```
 
 
 # Agradecimientos

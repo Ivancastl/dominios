@@ -15,7 +15,7 @@ Este proyecto tiene como objetivo **buscar y analizar dominios**, enfocado en la
 
 ### Requisitos
 
-Asegúrate de tener instalado `python3` y `pip` antes de comenzar.
+Asegúrate de tener instalado `python` y `pip` antes de comenzar.
 
 ### Instalación
 

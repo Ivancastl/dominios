@@ -1,6 +1,7 @@
-# 🌐 Proyecto Dominios 🚀
+# 🌐 **Proyecto Dominios** 🚀
 
-Este proyecto tiene como objetivo **buscar y analizar dominios**, enfocado en la **detección de phishing** y otros usos relacionados con la seguridad web. 
+Este proyecto tiene como objetivo **buscar y analizar dominios**, enfocado en la **detección de phishing** y en la identificación de **posibles amenazas de seguridad web**. A través de diferentes métodos de búsqueda, el sistema permite monitorear registros de dominios, identificar patrones sospechosos y obtener información sobre dominios asociados con actividades maliciosas.
+
 
 ### Funcionalidades
 
@@ -41,4 +42,15 @@ Una vez que las dependencias estén instaladas, puedes ejecutar el script con el
 
 ```bash
 python dominios.py
+
+
+
+## Agradecimientos
+
+Este proyecto utiliza dominios provenientes del siguiente repositorio:
+
+- [nitt-sec-nrd](https://github.com/nicotechtips/nitt-sec-nrd/tree/main/lists) - Una lista de dominios públicos, proporcionada por [nicotechtips](https://github.com/nicotechtips).
+  
+Gracias a los autores por compartir este recurso valioso.
+
 

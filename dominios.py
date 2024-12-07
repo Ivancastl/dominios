@@ -7,13 +7,13 @@ import os
 
 def mostrar_etiqueta():
     # Generar arte ASCII para "dominios"
-    texto_ascii = pyfiglet.figlet_format("dominios")
+    texto_ascii = pyfiglet.figlet_format("DominiOSINT")
     print(texto_ascii)
 
 
 def pedir_palabras_clave():
     # Solicitar palabras clave o "todo" al usuario
-    palabras_clave = input("Ingresa las palabras clave separadas por comas o escribe 'todo' para buscar todo: ").strip()
+    palabras_clave = input("Ingresa las palabras clave como por ejemplo 'bbva', 'santander' o 'todo' para traer todos los dominios:").strip()
     if not palabras_clave:
         print("No se especificaron palabras clave. Por favor, inténtalo de nuevo.")
         return pedir_palabras_clave()
@@ -26,7 +26,7 @@ def pedir_palabras_clave():
 def pedir_rango_fechas():
     while True:
         rango = input(
-            "Ingresa una fecha (YYYYMMDD) o un rango de fechas (YYYYMMDD-YYYYMMDD): "
+            "Ingresa una fecha (YYYYMMDD) o un rango de fechas (YYYYMMDD-YYYYMMDD) de los días de los dominios que quieres buscar: "
         ).strip()
         try:
             if "-" in rango:

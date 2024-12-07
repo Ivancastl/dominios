@@ -1,0 +1,11 @@
+MIT License
+
+Copyright (c) 2024 Iván Castañeda
+
+Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este código y los archivos asociados (el "Código"), para usarlo sin restricciones, incluyendo los derechos a usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender copias del Código, y para permitir a las personas a las que se les proporcione el Código hacer lo mismo, con las siguientes condiciones:
+
+El aviso de derechos de autor y esta declaración de permiso deben incluirse en todas las copias o partes sustanciales del Código.
+
+EL CÓDIGO SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, APTITUD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O LOS TITULARES DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑO O OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE O EN CONEXIÓN CON EL CÓDIGO O EL USO U OTROS TRATOS EN EL CÓDIGO.
+
+Este proyecto utiliza dominios provenientes del repositorio de GitHub [nitt-sec-nrd](https://github.com/nicotechtips/nitt-sec-nrd/tree/main/lists) por [nicotechtips](https://github.com/nicotechtips). Agradecemos a los autores por compartir esta lista de dominios.

@@ -1,6 +1,7 @@
-# 🌐 Proyecto Dominios 🚀
+# 🌐 **Proyecto Dominios** 🚀
 
-Este proyecto tiene como objetivo **buscar y analizar dominios**, enfocado en la **detección de phishing** 
+Este proyecto tiene como objetivo **buscar y analizar dominios**, enfocado en la **detección de phishing** y en la identificación de **posibles amenazas de seguridad web**. A través de diferentes métodos de búsqueda, el sistema permite monitorear registros de dominios, identificar patrones sospechosos y obtener información sobre dominios asociados con actividades maliciosas.
+
 
 ### 🔍 Funcionalidades
 

@@ -45,7 +45,7 @@ python dominios.py
 
 
 
-## Agradecimientos
+# Agradecimientos
 
 Este proyecto utiliza dominios provenientes del siguiente repositorio:
 

@@ -18,6 +18,14 @@ Este proyecto tiene como objetivo **buscar y analizar dominios**, enfocado en la
 
 Asegúrate de tener instalado `python` y `pip` antes de comenzar.
 
+Este proyecto es compatible con los siguientes sistemas operativos:
+
+- Kali Linux
+- Linux (Distribuciones basadas en Debian, Ubuntu, Fedora, CentOS, etc.)
+- Windows (con instalación de Python y dependencias necesarias)
+- macOS
+
+
 ### Instalación
 
 Sigue estos pasos para clonar el repositorio y configurar el entorno:
